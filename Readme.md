@@ -9,6 +9,9 @@
 * [Form2.ascx.cs](./CS/WebSite/UserForms/Form2.ascx.cs) (VB: [Form2.ascx.vb](./VB/WebSite/UserForms/Form2.ascx.vb))
 <!-- default file list end -->
 # How to invoke different forms via the popup menu
+<!-- run online -->
+**[[Run Online]](https://codecentral.devexpress.com/e429/)**
+<!-- run online end -->
 
 
 <p>Problem:</p><p>I'd like to customize the popup menu so that it contains additional menu items and clicking on them invokes my custom controls (web forms).</p><p>Solution:</p><p>Explore this example to see how you can accomplish this task. Right-click the appointment to see custom menu items which invoke user forms.<br />
