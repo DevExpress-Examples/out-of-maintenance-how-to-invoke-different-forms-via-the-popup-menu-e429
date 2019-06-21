@@ -5,6 +5,9 @@
 * [Default.aspx.cs](./CS/WebSite/Default.aspx.cs) (VB: [Default.aspx.vb](./VB/WebSite/Default.aspx.vb))
 <!-- default file list end -->
 # How to invoke different forms via the popup menu
+<!-- run online -->
+**[[Run Online]](https://codecentral.devexpress.com/e429/)**
+<!-- run online end -->
 
 
 <p>Problem:</p><p>I'd like to customize the popup menu so that it contains additional menu items and clicking on them invokes my custom controls (web forms).</p><p>Solution:</p><p>Explore this example to see how you can accomplish this task. Right-click the appointment to see custom menu items which invoke user forms.<br />
